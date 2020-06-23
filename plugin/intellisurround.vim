@@ -1,0 +1,7 @@
+call intellisurround#register('<', '>')
+call intellisurround#register('(', ')')
+call intellisurround#register('{', '}')
+call intellisurround#register('[', ']')
+call intellisurround#register('`', '`')
+call intellisurround#register("'", "'")
+call intellisurround#register('"', '"')
